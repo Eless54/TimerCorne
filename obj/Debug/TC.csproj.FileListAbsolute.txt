@@ -1,0 +1,11 @@
+C:\Users\beaun\source\repos\TC\bin\Debug\TC.exe.config
+C:\Users\beaun\source\repos\TC\bin\Debug\TC.exe
+C:\Users\beaun\source\repos\TC\bin\Debug\TC.pdb
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.csprojAssemblyReference.cache
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.Properties.Resources.resources
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.csproj.GenerateResource.cache
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.csproj.CoreCompileInputs.cache
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.exe
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.pdb
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.TimerCorne.resources
+C:\Users\beaun\source\repos\TC\obj\Debug\TC.InitAsk.resources
